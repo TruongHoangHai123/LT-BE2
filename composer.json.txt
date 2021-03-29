@@ -1,0 +1,22 @@
+{
+	"name": "tailieuwed/LTbackend-web2",
+	"description": "Create text",
+	"keywords": [
+	],
+	"authors": [
+	{
+	"name": tailieuwedPhanNhatQuy",
+	"email": "truonghoanghai.tdc2019@gmail.com",
+	"homepage": "http://tailieuwed.com"
+	}
+	],
+	"license": "MIT",
+	"require": {
+	},
+	"autoload": {
+	"psr-4": {
+	"tailieuwed\\LTBackend\\": "/"
+	}
+	},
+	"minimum-stability": "dev"
+}
